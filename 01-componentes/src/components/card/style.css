@@ -1,0 +1,14 @@
+.comp_card-thumbnail {
+    font-size: 0;
+    background-color: #4d4d59;
+}
+.card-thumbnail__content,
+.card-thumbnail__figure {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%;
+}
+.card-thumbnail__content {
+    font-size: 28px;
+    line-height: 3rem;
+}
